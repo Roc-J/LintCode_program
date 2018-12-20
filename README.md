@@ -1,2 +1,6 @@
-# LintCode_program
-Today i started learning about algorithmic questions
+# LintCode
+
+---
+
+使用C++来实现算法
+
